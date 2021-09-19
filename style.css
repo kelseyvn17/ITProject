@@ -143,4 +143,15 @@ nav .menu{
   padding-left: 20px;
   padding-right: 20px;
 }
-
+.watch img{
+  width: 15%;
+  height: 15%;
+  display: inline-block;
+  padding: 5px;
+}
+.web img{
+  width: 15%;
+  height: 15%;
+  display: inline-block;
+  padding: 5px;
+}
