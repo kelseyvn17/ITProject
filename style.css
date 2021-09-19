@@ -123,3 +123,23 @@ nav .menu{
   border-radius: 5px;
   box-shadow: 0 10px 20px 3px #00968814;
 }
+.contact {
+  width: 100%;
+  padding: 70px 0;
+  background: #c5e3ff;
+}
+.contact h1{
+  text-align: center;
+  font-size: 50px;
+}
+.contact h2{
+  text-align: center;
+  font-size: 30px;
+}
+.contact p{
+  text-align:center;
+  font-size: 35px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
