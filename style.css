@@ -143,6 +143,11 @@ nav .menu{
   padding-left: 20px;
   padding-right: 20px;
 }
+#product{
+  width: 100%;
+  padding: 70px 0;
+  background: #E6E6FA;
+}
 .watch img{
   width: 15%;
   height: 15%;
