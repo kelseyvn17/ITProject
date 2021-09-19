@@ -156,12 +156,16 @@ nav .menu{
 .watch img{
   width: 50%;
   height: 50%;
-  display: inline-block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 5px;
 }
 .web img{
   width: 50%;
   height: 50%;
-  display: inline-block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 5px;
 }
